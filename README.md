@@ -56,6 +56,4 @@ pip install pandas numpy scikit-learn matplotlib seaborn
     jupyter notebook Sentiment_Analysis_on_Twitter.ipynb
     ```
 
-4. Follow the notebook cells to execute the full workflow.
-
  
